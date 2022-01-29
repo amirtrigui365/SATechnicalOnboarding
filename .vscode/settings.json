@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/012246c3-240d-4fb3-ac08-e81916c84b62/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/SATechnicalOnboarding1",
+    "appService.deploySubpath": "."
+}
